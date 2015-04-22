@@ -97,3 +97,4 @@ if __name__ == '__main__':
             f.write(str(camera_map))
             f.close()
             print "Mapping written to file 'camera_map.txt'"
+            break
